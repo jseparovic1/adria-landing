@@ -1,0 +1,30 @@
+body {
+	font-family:'Lato', sans-serif;
+    font-size:200%;
+}
+a 	{	color:white; }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-weight: 900;
+    color: #007EBD;
+    padding: 2%;
+}
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+.nav li a {
+    background-color: #19142A;
+    padding: 3%;
+}
+ul li{
+    padding-bottom: 0;
+}
+.nav li a:hover{
+    background-color: #261758;
+    color:white;
+    transition: background-color 0.3s;
+    transition-timing-function: ease-in; 
+}
