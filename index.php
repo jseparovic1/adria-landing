@@ -6,14 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<!---- font bootstrap and custom css------>
+	<!-- font bootstrap and custom css -->
 	<link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Lato'  >
 	<link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css" >
 	<link rel="stylesheet" type="text/css" href="styles/main.css">
 	
 	<title>jsepar00 lounge</title>
 
-	<!---- Google analytics script------>
+	<!-- Google analytics script -->
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
